@@ -6,3 +6,5 @@
 
 
 <h2>Exercícios para treinamento</h2>
+<h3>tryCatch</h3>
+<p>Teste da classe tryCatch em Java - O programa irá solicitar que informe uma idade e um sexo e definirá se o que foi informado se enquadra como menino/homem/menina/mulher.</p>
