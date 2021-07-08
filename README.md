@@ -20,3 +20,5 @@
 <p>Teste da classe tryCatch em Java - O programa irá solicitar que informe uma idade e um sexo e definirá se o que foi informado se enquadra como menino/homem/menina/mulher.</p>
 <h3>tabuadaAltomatica.</h3>
 <p>Teste de estrutura de repetição for em Java - Imprime da tela (System.out.println()) as tabuada do 1 ao 5.</p>
+<h3>insercaoNotas</h3>
+<p>Teste de estruturas de repetição em Java - Pede nome do aluno, em seguida, pede três notas desse aluno e pergunta se deseja inserir as notas de outro aluno. Ao final irá exibir a maior média e o nome do aluno que a obteve.</p>
